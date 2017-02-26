@@ -1,4 +1,4 @@
-![Logo](admin/broadlink.png) 
+![Logo](admin/broadlink.png)
 ioBroker.broadlink  
 ==================
 
@@ -18,6 +18,15 @@ https://github.com/frankjoke/ioBroker.broadlink2**
 
 **Tests:** Linux/Mac: [![Travis-CI Build Status](https://travis-ci.org/hieblmedia/ioBroker.broadlink.svg?branch=master)](https://travis-ci.org/hieblmedia/ioBroker.broadlink)
 Windows: [![AppVeyor Build status](https://ci.appveyor.com/api/projects/status/pil6266rrtw6l5c0?svg=true)](https://ci.appveyor.com/project/hieblmedia/iobroker-broadlink)
+**This adapter needs at least Node 4.x**
+
+#### Installation
+Execute the following command in the iobroker directory (e.g. /opt/iobroker)  
+```
+# cd /opt/iobroker
+# npm install iobroker.broadlink
+# iobroker upload broadlink
+```
 
 This is an ioBroker adapter for Broadlink RM3 Mini/RM3 Pro to learn and send signals.
 
