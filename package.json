@@ -1,6 +1,6 @@
 {
   "name": "iobroker.broadlink",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ioBroker Broadlink Adapter",
   "author": {
     "name": "Reinhard Hiebl",
@@ -17,6 +17,8 @@
   "keywords": [
     "ioBroker",
     "broadlink",
+    "RM3 Mini",
+    "RM3 Pro",
     "Smart Home",
     "home automation"
   ],
