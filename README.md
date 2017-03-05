@@ -7,6 +7,8 @@
 Adapter for Broadlink IR  
 **[only tested with RM3 Mini atm.]**
 
+**This adapter needs at least Node 4.x**
+
 #### Installation
 Execute the following command in the iobroker directory (e.g. /opt/iobroker)  
 ```
