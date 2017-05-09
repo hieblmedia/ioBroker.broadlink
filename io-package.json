@@ -1,7 +1,17 @@
 {
   "common": {
     "name": "broadlink",
-    "version": "0.1.4",
+    "version": "0.1.6",
+    "news": {
+      "0.1.6": {
+        "en": "set ack of a changed state to true if send is done",
+        "de": "ack eines states wid nach dem Senden gesetzt"
+      },
+      "0.1.5": {
+        "en": "possibility,to repeat the command",
+        "de": "Möglichkeit ein Kommando zu wiederholen"
+      }
+    },
     "title": "Broadlink (RM3) Adapter",
     "news": {
       "0.1.4": {
