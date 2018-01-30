@@ -2,6 +2,15 @@
 ioBroker.broadlink  
 ==================
 
+---
+
+# NOT MAINTAINED ANYMORE
+
+**This project is not maintained anymore, because personal reasons. Please use: 
+https://github.com/frankjoke/ioBroker.broadlink2**
+
+---
+
 [![NPM version](http://img.shields.io/npm/v/iobroker.broadlink.svg)](https://www.npmjs.com/package/iobroker.broadlink)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.broadlink.svg)](https://www.npmjs.com/package/iobroker.broadlink)
 
