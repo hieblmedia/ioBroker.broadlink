@@ -17,6 +17,7 @@
             "en": "Broadlink Adapter for RM3 Mini/RM3 Pro to learn and send signals",
             "de": "Broadlink Adapter für RM3 Mini/RM3 Pro zum lernen und senden von Signalen"
         },
+        "license": "MIT",
         "platform": "Javascript/Node.js",
         "mode": "daemon",
         "icon": "broadlink.png",
