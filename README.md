@@ -11,7 +11,7 @@ https://github.com/frankjoke/ioBroker.broadlink2**
 
 ---
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.broadlink.svg)](https://www.npmjs.com/package/iobroker.broadlink)
+![Number of Installations](http://iobroker.live/badges/broadlink-installed.svg) ![Number of Installations](http://iobroker.live/badges/broadlink-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.broadlink.svg)](https://www.npmjs.com/package/iobroker.broadlink)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.broadlink.svg)](https://www.npmjs.com/package/iobroker.broadlink)
 
 [![NPM](https://nodei.co/npm/iobroker.broadlink.png?downloads=true)](https://nodei.co/npm/iobroker.broadlink/)
