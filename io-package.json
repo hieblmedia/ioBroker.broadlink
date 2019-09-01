@@ -1,37 +1,43 @@
 {
-  "common": {
-    "name": "broadlink",
-    "version": "0.1.4",
-    "title": "Broadlink (RM3) Adapter",
-    "news": {
-      "0.1.4": {
-        "en": "Some text changes",
-        "de": "Einige Textänderungen"
-      },
-      "0.1.3": {
-        "en": "Role changed to button",
-        "de": "Role geändert nach button"
-      }
+    "common": {
+        "name": "broadlink",
+        "version": "0.1.4",
+        "title": "Broadlink (RM3) Adapter",
+        "news": {
+            "0.1.4": {
+                "en": "Some text changes",
+                "de": "Einige Textänderungen"
+            },
+            "0.1.3": {
+                "en": "Role changed to button",
+                "de": "Role geändert nach button"
+            }
+        },
+        "desc": {
+            "en": "Broadlink Adapter for RM3 Mini/RM3 Pro to learn and send signals",
+            "de": "Broadlink Adapter für RM3 Mini/RM3 Pro zum lernen und senden von Signalen"
+        },
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "mode": "daemon",
+        "icon": "broadlink.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/hieblmedia/ioBroker.broadlink/master/admin/broadlink.png",
+        "keywords": [
+            "broadlink"
+        ],
+        "readme": "https://github.com/hieblmedia/ioBroker.broadlink/blob/master/README.md",
+        "loglevel": "info",
+        "type": "multimedia",
+        "authors": [
+            {
+                "name": "Reinhard Hiebl",
+                "email": "reinhard@hieblmedia.com"
+            }
+        ]
     },
-    "desc": {
-      "en": "Broadlink Adapter for RM3 Mini/RM3 Pro to learn and send signals",
-      "de": "Broadlink Adapter für RM3 Mini/RM3 Pro zum lernen und senden von Signalen"
+    "native": {
+        "ip": ""
     },
-    "platform": "Javascript/Node.js",
-    "mode": "daemon",
-    "icon": "broadlink.png",
-    "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/hieblmedia/ioBroker.broadlink/master/admin/broadlink.png",
-    "keywords": [
-      "broadlink"
-    ],
-    "readme": "https://github.com/hieblmedia/ioBroker.broadlink/blob/master/README.md",
-    "loglevel": "info",
-    "type": "hardware"
-  },
-  "native": {
-    "ip": ""
-  },
-  "objects": [
-  ]
+    "objects": []
 }
