@@ -1,9 +1,16 @@
 {
   "common": {
     "name": "broadlink",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "title": "Broadlink (RM3) Adapter",
+    "titleLang": {
+      "en": "Broadlink (RM3) Adapter"
+    },
     "news": {
+      "0.1.5": {
+        "en": "Fix for js-controller v5",
+        "de": "Fix für js-controller v5"
+      },
       "0.1.4": {
         "en": "Some text changes",
         "de": "Einige Textänderungen"
