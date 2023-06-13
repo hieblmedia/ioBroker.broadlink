@@ -23,7 +23,9 @@
   "engines": {
     "node": ">=0.12.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@iobroker/adapter-core": "^2.6.8"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-replace": "^0.9.3",

@@ -1,5 +1,5 @@
 "use strict";
-var utils = require(__dirname + '/lib/utils'),
+var utils = require('@iobroker/adapter-core'),
 	adapter = utils.adapter('broadlink'),
 	broadlink = require(__dirname + '/lib/broadlink'),
 	//zlib = require('zlib'),
